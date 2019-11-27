@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f46e3d5c-0aa4-40d8-945c-9d6dd001b214" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db [2]" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db [3]" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db [3]" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db [3]" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="main: schema" type="981a47c2:SqliteImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db [3]" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="main: schema" type="981a47c2:SqliteImplModel$Schema" />
+        <item name="django_admin_log: table" type="3d80ac25:SqliteImplModel$Table" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db [3]" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="main: schema" type="981a47c2:SqliteImplModel$Schema" />
+        <item name="teachers_teacher_dotsent: table" type="3d80ac25:SqliteImplModel$Table" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db [3]" type="feb32156:DbDataSourceImpl" />
+        <item name="collations" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="site_catedra1" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML4 File" />
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1QYFe2TFhK5bUteB6AXal7DS5Uz" />
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="sqlite" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Rezerv\Desktop\site\site_catedra1\maps" />
+      <recent name="C:\Users\Rezerv\Desktop\site\site_catedra1\templates" />
+      <recent name="D:\Python_projects\site_catedra1\teachers" />
+      <recent name="D:\Python_projects\site_catedra1\templates\personal" />
+      <recent name="D:\Python_projects\site_catedra1\personal" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Python_projects\site_catedra1\personal\teachers" />
+      <recent name="C:\Users\Rezerv\Desktop\site\site_catedra1\personal\static\img" />
+      <recent name="C:\Users\Rezerv\Desktop\site\site_catedra1\templates\teachers" />
+      <recent name="C:\Users\Rezerv\Desktop\site\site_catedra1\templates" />
+      <recent name="C:\Users\Rezerv\Desktop\site\site_catedra1\templates\personal" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.django-admin">
+    <configuration name="django-admin" type="PythonConfigurationType" factoryName="Python">
+      <module name="site_catedra1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="D:/python_lab/venv/Scripts" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="D:/python_lab/venv/Scripts/django-admin.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="site_catedra1" type="Python.DjangoServer" factoryName="Django server">
+      <module name="site_catedra1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="site_catedra1.settings" />
+      </envs>
+      <option name="SDK_HOME" value="D:\Python_projects\site_catedra1\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="http://127.0.0.1:8000/" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Django server.site_catedra1" />
+      <item itemvalue="Python.django-admin" />
+    </list>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="allServicesViewState">
+      <serviceView>
+        <treeState>
+          <expand>
+            <path>
+              <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@2966f9b2" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+            </path>
+            <path>
+              <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@607b55ef" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+            </path>
+          </expand>
+          <select />
+        </treeState>
+      </serviceView>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f46e3d5c-0aa4-40d8-945c-9d6dd001b214" name="Default Changelist" comment="" />
+      <created>1567939715025</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1567939715025</updated>
+      <workItem from="1567939929010" duration="342000" />
+      <workItem from="1568051819071" duration="8199000" />
+      <workItem from="1568142709315" duration="6587000" />
+      <workItem from="1568226260820" duration="7450000" />
+      <workItem from="1568572842989" duration="7980000" />
+      <workItem from="1568660941065" duration="7407000" />
+      <workItem from="1568720125804" duration="1502000" />
+      <workItem from="1568746519695" duration="232000" />
+      <workItem from="1568748346584" duration="7639000" />
+      <workItem from="1568792135806" duration="32000" />
+      <workItem from="1568808965211" duration="309000" />
+      <workItem from="1569185461052" duration="326000" />
+      <workItem from="1569690801723" duration="9166000" />
+      <workItem from="1569853049245" duration="7567000" />
+      <workItem from="1569956764861" duration="114000" />
+      <workItem from="1569957829108" duration="1120000" />
+      <workItem from="1570131688771" duration="4411000" />
+      <workItem from="1570213693186" duration="1487000" />
+      <workItem from="1570357204671" duration="9686000" />
+      <workItem from="1570387081162" duration="1565000" />
+      <workItem from="1570445564645" duration="127000" />
+      <workItem from="1570820019738" duration="4984000" />
+      <workItem from="1572183049862" duration="14574000" />
+      <workItem from="1572263912702" duration="1464000" />
+      <workItem from="1572265657394" duration="218000" />
+      <workItem from="1572266627430" duration="109000" />
+      <workItem from="1572268162721" duration="8416000" />
+      <workItem from="1572354575815" duration="12145000" />
+      <workItem from="1572367448830" duration="599000" />
+      <workItem from="1572440520640" duration="12180000" />
+      <workItem from="1572521709381" duration="12130000" />
+      <workItem from="1572534144115" duration="646000" />
+      <workItem from="1572534806051" duration="845000" />
+      <workItem from="1572535666480" duration="1588000" />
+      <workItem from="1572537271442" duration="1148000" />
+      <workItem from="1572538442191" duration="369000" />
+      <workItem from="1572538825881" duration="211000" />
+      <workItem from="1572539062434" duration="265000" />
+      <workItem from="1572598921713" duration="15581000" />
+      <workItem from="1572615037584" duration="3403000" />
+      <workItem from="1572957291710" duration="78000" />
+      <workItem from="1572957462126" duration="12070000" />
+      <workItem from="1573046532797" duration="7987000" />
+      <workItem from="1573129844903" duration="7416000" />
+      <workItem from="1573210793337" duration="15107000" />
+      <workItem from="1573483412863" duration="1808000" />
+      <workItem from="1573485304126" duration="1787000" />
+      <workItem from="1573566315742" duration="8867000" />
+      <workItem from="1573649598411" duration="10864000" />
+      <workItem from="1573731166135" duration="5390000" />
+      <workItem from="1573743860577" duration="513000" />
+      <workItem from="1573840716346" duration="2046000" />
+      <workItem from="1574110630155" duration="503000" />
+      <workItem from="1574329345573" duration="1836000" />
+      <workItem from="1574332184162" duration="1989000" />
+      <workItem from="1574598067632" duration="6096000" />
+      <workItem from="1574709682176" duration="2650000" />
+      <workItem from="1574753277723" duration="1188000" />
+      <workItem from="1574758183180" duration="626000" />
+      <workItem from="1574796119802" duration="4185000" />
+      <workItem from="1574838764416" duration="1210000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/site_catedra1$django_admin.coverage" NAME="django-admin Coverage Results" MODIFIED="1573213357634" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/python_lab/venv/Scripts" />
+  </component>
+</project>

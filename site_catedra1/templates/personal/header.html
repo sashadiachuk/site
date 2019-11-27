@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+{% load static %}
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="description" content="">
+  <meta name="author" content="">
+<style>
+ img {max-width:350%;height:auto;
+ float:left;
+    margin: 10px 10px 10px 0px;}
+
+</style>
+{% load staticfiles %}
+
+<link href="{% static "vendor/bootstrap/css/bootstrap.min.css" %} " rel="stylesheet">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
+  <!-- Custom fonts for this template -->
+  <link href="https://fonts.googleapis.com/css?family=Saira+Extra+Condensed:500,700" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Muli:400,400i,800,800i" rel="stylesheet">
+  <link href="{% static "vendor/fontawesome-free/css/all.min.css"%}" rel="stylesheet">
+    <!-- map script -->
+    <script src='https://api.mapbox.com/mapbox-gl-js/v1.4.1/mapbox-gl.js'></script>
+    <link href='https://api.mapbox.com/mapbox-gl-js/v1.4.1/mapbox-gl.css' rel='stylesheet' />
+  <!-- Custom styles for this template -->
+  <link href="{%  static "css/resume.min.css"%}" rel="stylesheet">
+
+</head>
+
+<body id="page-top">
+    {% include 'navbar.html' %}
+  <div class="container-fluid p-0">
+    <section class="section p-5 p-lg-10 d-md-flex " id="about">
+      <div class="w-100">
+              {% block head_catedra %}{% endblock %}
+             {% block catedra %}{% endblock %}
+
+      </div>
+    </section>
+
+    <hr class="m-0">
+
+    <section class="resume-section p-3 p-lg-5 d-flex justify-content-center" id="experience">
+      <div class="w-100">
+        <p><h2 class="text-capitalize">Викладачі нашої кафедри </h2></p>
+          <div class="resume-content ">
+              <div class="mb-0">
+
+                  <a href="http://127.0.0.1:8000/prof">
+                      <li class="list-group-item">  <h3 class="text-capitalize">Професори</h3></li>
+                  </a>
+
+          <div class="resume-content">
+              <div class="mb-0">
+                  <a href="http://127.0.0.1:8000/dots">
+                      <li class="list-group-item">    <h3  class="text-capitalize" >Доценти</h3></li>
+                  </a>
+              </div>
+           <div class="resume-content">
+              <div class="mb-0 lg">
+                  <a href="http://127.0.0.1:8000/st_v">
+                      <li class="list-group-item">  <h3 class="text-capitalize">Старші викладачі</h3></li>
+                  </a>
+              </div>
+           </div>
+           <div class="resume-content">
+              <div class="mb-0 lg">
+                  <a href="/graf">
+                      <li class="list-group-item">  <h3 class="text-capitalize">Графік консультацій викладачів</h3></li>
+                  </a>
+              </div>
+           </div></div>
+            </ul>
+        </div>
+      </div>
+    </div>
+
+    </section>
+
+    <hr class="m-0">
+
+    <section class="section p-3 p-lg-5 d-flex align-items-center" id="education">
+      <div class="w-100">
+        <h2 class="mb-5 text-capitalize">Навчальний процес</h2>
+          {% block navchannia %}
+          {% endblock %}
+      </div>
+    </section>
+
+    <hr class="m-0">
+
+    <section class="resume-section offset-1 " id="skills">
+               <h2 class="mb-5 ">Контакти</h2>
+    <div class="text " >Наша адреса : Україна 03056, м. Київ, вул. Політехнічна, 16,Факультет електроніки Корпус №12 ауд. 339, 331, 201 , 202  тел. 204-95-38, 204-93-63 , 204-86-11</div>
+              <p>  {% block map %}{% endblock %}</p>
+    <p class="text " style="color: #824027">Тут про нас можна дізнатися більше</p>
+    <div class="social-icons">
+          <a href="https://www.youtube.com/user/kpikeoa/feed">
+            <i class="fab fa-youtube"></i>
+          </a>
+          <a href="https://web.telegram.org/#/im?p=@kpi_fel">
+            <i class="fab fa-telegram"></i>
+          </a>
+          <a href="https://www.instagram.com/lampa.lab">
+            <i class="fab fa-instagram"></i>
+          </a>
+          <a href="https://www.facebook.com/keoa.kpi/">
+            <i class="fab fa-facebook-f"></i>
+          </a>
+        </div>
+    </section>
+
+    <hr class="m-0">
+
+    <section class="section p-3 p-lg-5 d-flex align-items-center" id="interests">
+      <div class="w-100">
+        <h2 class="mb-5">Абітурієнтам</h2>
+
+        {% block abiturient %}{% endblock %}
+
+
+
+      </div>
+    </section>
+
+    <hr class="m-0">
+
+    <section class="section p-3 p-lg-5 d-flex align-items-center" id="awards">
+      <div class="w-100">
+      <h2 class="mb-5">Щось цікавить, задай питання!</h2>
+
+      <div class="align-content-lg-center">{% block form %}{% endblock %}</div>
+      </div>
+    </section>
+
+  <!-- Bootstrap core JavaScript -->
+  <script src="static/vendor/jquery/jquery.min.js"></script>
+  <script src="static/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+  <!-- Plugin JavaScript -->
+  <script src="static/vendor/jquery-easing/jquery.easing.min.js"></script>
+
+  <!-- Custom scripts for this template -->
+  <script src="static/js/resume.min.js"></script>
+  </div>
+</body>
+
+</html>

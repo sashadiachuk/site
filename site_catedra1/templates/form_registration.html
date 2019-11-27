@@ -1,0 +1,10 @@
+  {% extends "map.html" %} # наслідування  звідси в якісь документ(сюди також вставлятиметься весь вміст з документа, якого наслідує він )
+{% load static %}
+{%  block form %}
+       <div class="page-header">
+        <form method="post">{% csrf_token %}
+         <form action = "" method="post">
+           {{form.as_p}}
+       <div>
+        <button type ="submit">Надіслати</button>
+{% endblock %}
